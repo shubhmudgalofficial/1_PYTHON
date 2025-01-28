@@ -1,0 +1,7 @@
+a=int(input("Enter a number: "))
+b=int(input("enter a number"))
+print("num a is ",a)
+print("num b is ",b)
+print("sum of a and b is ",a+b)
+name =str(input("name is :"))
+print("name is ",name)
