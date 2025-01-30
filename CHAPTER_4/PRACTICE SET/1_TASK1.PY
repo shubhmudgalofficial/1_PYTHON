@@ -1,0 +1,21 @@
+#7 FRUITS LIST
+fruits=["apple","mango","banana","grapes","orange","lichie"]
+fruits.append("kiwi")
+print(fruits)
+fruits.clear()
+
+f1=input("enter fruit name\n")
+fruits.append(f1)
+f1=input("enter fruit name\n")
+fruits.append(f1)
+f1=input("enter fruit name\n")
+fruits.append(f1)
+f1=input("enter fruit name\n")
+fruits.append(f1)
+f1=input("enter fruit name\n")
+fruits.append(f1)
+f1=input("enter fruit name\n")
+fruits.append(f1)
+f1=input("enter fruit name\n")
+fruits.append(f1)
+print(fruits)
